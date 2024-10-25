@@ -1,0 +1,17 @@
+#checkpoint
+#file2 = open("file2.txt", "a")
+#file2.write("I love programming!")
+#file2.close()
+#filer = open("file2.txt", "r")
+#print(filer.read())
+#penpal challenge
+#edit = open("letter.txt", "a")
+#edit.write("From your Pen Pal")
+#edit.close()
+#reed = open("letter.txt", "r")
+#print(reed.read())
+edit = open("report.txt", "a")
+edit.write("Quote was said by Gandhi")
+edit.close()
+reed = open("report.txt", "r")
+print(reed.read())
