@@ -1,0 +1,6 @@
+write = open("file2.txt", "w")
+write.write("In short, I love to code!")
+write.close()
+animal = open("porcupine.txt", "w")
+animal.write("this the new file")
+animal.close()
